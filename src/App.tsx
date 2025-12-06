@@ -1,7 +1,7 @@
 import "./app.css";
 
 // components
-import Calculator from "./components/calculator";
+import Calculator from "./components/Calculator";
 
 // store
 import { themeStore } from "./store/themeStore";
